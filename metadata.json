@@ -1,0 +1,6 @@
+{
+  "name": "InfraVision AI",
+  "description": "Intelligent Data Capture & Real-Time Progress Tracking for Infrastructure Projects. Computer vision stage detection, planned vs actual progress tracking, delay prediction, and automated reporting for SIH.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
